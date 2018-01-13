@@ -1,0 +1,13 @@
+C:\Users\nkier\Desktop\Uni\Year2\ADS1303\KiernanNathan15088410\CountriesAssignment\CountriesAssignment\bin\Debug\CountriesAssignment.exe.config
+C:\Users\nkier\Desktop\Uni\Year2\ADS1303\KiernanNathan15088410\CountriesAssignment\CountriesAssignment\bin\Debug\CountriesAssignment.exe
+C:\Users\nkier\Desktop\Uni\Year2\ADS1303\KiernanNathan15088410\CountriesAssignment\CountriesAssignment\bin\Debug\CountriesAssignment.pdb
+C:\Users\nkier\Desktop\Uni\Year2\ADS1303\KiernanNathan15088410\CountriesAssignment\CountriesAssignment\obj\Debug\CountriesAssignment.MainForm.resources
+C:\Users\nkier\Desktop\Uni\Year2\ADS1303\KiernanNathan15088410\CountriesAssignment\CountriesAssignment\obj\Debug\CountriesAssignment.Properties.Resources.resources
+C:\Users\nkier\Desktop\Uni\Year2\ADS1303\KiernanNathan15088410\CountriesAssignment\CountriesAssignment\obj\Debug\CountriesAssignment.csproj.GenerateResource.Cache
+C:\Users\nkier\Desktop\Uni\Year2\ADS1303\KiernanNathan15088410\CountriesAssignment\CountriesAssignment\obj\Debug\CountriesAssignment.exe
+C:\Users\nkier\Desktop\Uni\Year2\ADS1303\KiernanNathan15088410\CountriesAssignment\CountriesAssignment\obj\Debug\CountriesAssignment.pdb
+C:\Users\nkier\Desktop\Uni\Year2\ADS1303\KiernanNathan15088410\CountriesAssignment\CountriesAssignment\bin\Debug\CountriesAssignment.exe.manifest
+C:\Users\nkier\Desktop\Uni\Year2\ADS1303\KiernanNathan15088410\CountriesAssignment\CountriesAssignment\bin\Debug\CountriesAssignment.application
+C:\Users\nkier\Desktop\Uni\Year2\ADS1303\KiernanNathan15088410\CountriesAssignment\CountriesAssignment\obj\Debug\CountriesAssignment.csprojResolveAssemblyReference.cache
+C:\Users\nkier\Desktop\Uni\Year2\ADS1303\KiernanNathan15088410\CountriesAssignment\CountriesAssignment\obj\Debug\CountriesAssignment.exe.manifest
+C:\Users\nkier\Desktop\Uni\Year2\ADS1303\KiernanNathan15088410\CountriesAssignment\CountriesAssignment\obj\Debug\CountriesAssignment.application
